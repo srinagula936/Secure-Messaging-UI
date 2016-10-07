@@ -1,0 +1,39 @@
+.sm-patientinbox-title{
+  font-size: 24px;
+  text-align: center;
+  background-color: #E1E6EA;
+  color: #1A202F;
+  padding: 10px;
+  margin-bottom: 30px;
+}
+
+.sm-margin-bottom {
+  margin-bottom: 25px;
+  background: #004990;
+}
+
+.btn-primary:active{
+	width: 50%;
+	background-color: #8064A2; 
+}
+
+#categoriesanddate{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.main-content{
+	position: fixed;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   background-color: #F6F7F9;
+}
+.wrapper {
+    padding-left: 150px;
+}
+
+.button {
+    position: absolute;
+    top: 50%;
+}
